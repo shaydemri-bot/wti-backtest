@@ -1,0 +1,8 @@
+# זמן מקומי: Asia/Jerusalem
+market:
+  symbol: "CL=F"
+
+backtest:
+  bt1:
+    period: "6mo"
+    interval: "1h"
